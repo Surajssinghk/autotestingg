@@ -13,6 +13,6 @@
 @Reg
     Scenario: validate login with invalid details
     When user enter username "err_user" and password "sec_sce"
-    And user click on login button
+    And user click on login button erjrf
     
  
